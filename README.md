@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Customer Behavior Data Analytics Portfolio Project
 > **End-to-End Industry Standard Retail Data Analytics Workflow using Python, SQL, and Interactive Localhost Dashboard (Power BI Replica)**  
-> *Inspired by and built following the tutorial by Amlan Mohanty.*
+
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-SQLite%20%7C%20Postgres%20%7C%20MySQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
